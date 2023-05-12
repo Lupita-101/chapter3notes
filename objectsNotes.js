@@ -58,6 +58,7 @@ let dog = {
     dogName: 'Zelda',
 
     breed: 'Terrier',
+
     age: 9,
 
     size: 'medium',
